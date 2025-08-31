@@ -1,0 +1,4 @@
+body{font-family:Inter,system-ui,Arial,Helvetica,sans-serif;margin:0;padding:0}
+header{display:flex;justify-content:space-between;align-items:center;padding:1rem;background:#0b7285;color:#fff}
+.products{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;padding:16px}
+.product-card{border:1px solid #ddd;padding:12px;border-radius:8px}
